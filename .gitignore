@@ -1,0 +1,6 @@
+.DS_Store
+**/.DS_Store
+generated_component_images/
+generated_component_images.zip
+.env
+.env.*
